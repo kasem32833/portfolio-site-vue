@@ -2,7 +2,7 @@
 <template>
       <!-- Hero Area -->
       <div class="relative left-0 top-0 bg-gradient-to-r from-purple-500 to-orange-400 custom-shape flex flex-col space-y-6 justify-center items-center text-white position-top ">
-        <img src="assets/img/profile.jpeg" alt="">
+        
         <p>Hello</p>
         <h1 class="text-7xl">I'm <span class="auto-type text-black">Fronend Developer</span></h1>
     </div>
@@ -18,6 +18,7 @@
                     <a href="#">About Me</a>
                     <a href="#">Services</a>
                     <a href="#">Pricing</a>
+                    <a href="#">Reviews</a>
                 </div>
             </div>
         </div>
